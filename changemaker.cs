@@ -10,6 +10,9 @@ namespace changemaker_revised
     {
         static void Main(string[] args)
         {
+            ChangeMaker(3.90);
+            Console.ReadKey();
+          
         }
         static void ChangeMaker(double amount)
         {
